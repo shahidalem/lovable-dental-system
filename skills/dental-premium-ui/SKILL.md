@@ -117,3 +117,24 @@ Every website must feel:
 - Modern
 - Custom-made
 - Not AI-generated
+## Output Tech Preference
+Prefer:
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- shadcn/ui
+
+Avoid:
+- Bootstrap styling
+- Generic component libraries
+- ## Media Rules
+Use:
+- Realistic premium dental clinic visuals
+- Professional doctor portraits
+- Clean before/after smile imagery
+
+Avoid:
+- Cartoon illustrations
+- Low quality stock photos
+- Generic smiling models
